@@ -420,4 +420,4 @@ define("LAN_PAGINATION", "Нумерация страниц");
 define("LAN_X_CHARS_REMAINING", "[x] символов. требуется");
 define("LAN_UI_BATCH_NOW", "Текущие Дата/Время");
 define("LAN_RELATIONSHIP", "Отношения");
-define("LAN_RELATIONSHIP_HELP", "Необязательный атрибут "rel". Запятая - разделитель.");
+define("LAN_RELATIONSHIP_HELP", "Необязательный атрибут 'rel'. Запятая - разделитель.");
